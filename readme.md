@@ -1,0 +1,3 @@
+En este jercicio tengo cuatro archivos index enlazados entre si mediante js, de esta manera en el header y en el footer podemos navegar por las diferentes paginas.
+En la cuarta pestaña llamada Contacto, tengo un formulario en el cual se pueden cumplementar los campos basicos a la hora de solicitar una cita con mi empresa en este caso una floristeria, todos los campos deben ser completados antes de poder enviar el formulario y asi lo deje marcado en cada una de las secciones.
+En la parte derecha de mi footer estan colocados los iconos de diferentes rrss los cuales ahora estan enlazados a las paginas de inicio de ellas.
